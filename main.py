@@ -9,6 +9,7 @@ def main():
         print("la multiplicacion es menor o igual a 10")
     print("la multiplicacion es:", olarte)
     print("mensaje del master")
+    print ("con olarte no vamos a poder seguir")
 
 
 
