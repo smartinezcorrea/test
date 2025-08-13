@@ -12,5 +12,12 @@ def main():
 
     print("Fin del programa master")
 
+
+
+
+
 if __name__ == "__main__":
-    main()
+ def main():
+    print("ensayo")
+    texto = "Hola, este es un ensayo"
+    print(texto)
