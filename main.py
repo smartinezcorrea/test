@@ -11,7 +11,7 @@ def main():
     print("mensaje del master")
     print ("con olarte no vamos a poder seguir")
     print ("olarte gracias pro todo, hasta hoy")
-
+    print ("olarte gracias por todo, no vuelva")
 
 
 
