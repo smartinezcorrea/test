@@ -13,7 +13,11 @@ def main():
     print ("olarte gracias pro todo, hasta hoy")
     print ("olarte gracias por todo, no vuelva")
 
+
     return olarte 
+
+    print ("5 finales perdidas")
+
 
 def total(temporal):
     return temporal * 2
