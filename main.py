@@ -12,7 +12,7 @@ def main():
     print ("con olarte no vamos a poder seguir")
     print ("olarte gracias pro todo, hasta hoy")
     print ("olarte gracias por todo, no vuelva")
-
+    print ("5 finales perdidas")
 
 
 
