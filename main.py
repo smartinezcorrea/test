@@ -12,9 +12,17 @@ def main():
     print ("con olarte no vamos a poder seguir")
     print ("olarte gracias pro todo, hasta hoy")
     print ("olarte gracias por todo, no vuelva")
+
+
+    return olarte 
+
     print ("5 finales perdidas")
 
 
+def total(temporal):
+    return temporal * 2
 
 if __name__ == "__main__":
-    main()
+    temporal= main()
+    resultado= total(temporal)
+    print("El resultado es:", resultado)
